@@ -22,7 +22,10 @@ Thumbs.db
 # Gradle
 gradle
 .gradle
-!gradle-wrapper.jar
+./gradle/
+#gradle-wrapper.jar
+gradlew
+gradlew.bat
 
 # Maven
 target
